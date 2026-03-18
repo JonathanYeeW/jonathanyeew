@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**JonathanYeeW/jonathanyeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software for my own life. When it gets good enough to help other people, I ship it.
 
-Here are some ideas to get you started:
+Full-stack engineer — mobile, backend, AI. I care as much about how software gets
+built and documented as I do about what gets built.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+|  | Project | What it is |
+|---|---|---|
+| 🍽️ | [Patine](https://patine.io/) | Meal planning app — import recipes, plan your week, auto-generate grocery lists. Live on the App Store. |
+| 🥜 | PB&J Machine Co. | Every document type in a software org, written about a fictional sandwich machine. A reference for how docs should actually look. |
+| 🧠 | Second Thought | AI-powered personal organization — capture scattered thoughts, get structured summaries. Something I'm building for myself. |
+| ✍️ | [Blog](https://substack.com/@jonathanyeew) | Writing about the thinking behind building — decisions, tradeoffs, and what I learned. |
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/jonathanwyee/) · [jonathan.yee.w@gmail.com](mailto:jonathan.yee.w@gmail.com)
