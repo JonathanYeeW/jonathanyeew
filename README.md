@@ -16,4 +16,4 @@ built and documented as I do about what gets built.
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/jonathanwyee/) · [jonathan.yee.w@gmail.com](mailto:jonathan.yee.w@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jonathanwyee/)
